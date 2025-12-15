@@ -22,11 +22,6 @@ print(retainFirstHalf(""), '\n')
 print(retainFirstHalf("This is a testing string"), '\n')
 print(retainFirstHalf("                   another testing function"))
 
-
-
-
-
-
 s = "Hello, Python"
 home = len(s)
 split = s[0:home-5]
